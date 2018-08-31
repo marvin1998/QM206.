@@ -1,1 +1,0 @@
-# Quimica Computacional
